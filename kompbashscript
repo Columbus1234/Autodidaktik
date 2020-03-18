@@ -1,0 +1,41 @@
+#!/usr/bin/bash
+var=$(find . -type f -name "*.md")
+
+# echo "$var"
+
+# pandoc -s -o ./Humanities/History/WW1/WW1_events/main.pdf ./Humanities/History/WW1/WW1_events/main.md
+
+echo Detta skript läser igenom hela mappen recursivt efter filer som slutar på .md för att sedan kompilera dem genom pandoc till pdf filer.
+
+while true; do
+    read -p "Önskar du fortsätta? (y/n): " yn
+    case $yn in
+        [Yy]* ) break;;
+        [Nn]* ) exit;;
+        * ) echo "Please answer yes or no.";;
+    esac
+done
+
+while read i; do
+    pdfname=$(echo "$i" | rev | cut -c 3- | rev)
+    pdfname+="pdf"
+    newname="$i KOMPILERAS TILL $pdfname"
+    echo "$newname"
+done <<< "$var"
+
+
+while true; do
+    read -p "Önskar du fortsätta? (y/n): " yn
+    case $yn in
+        [Yy]* ) break;;
+        [Nn]* ) exit;;
+        * ) echo "Please answer yes or no.";;
+    esac
+done
+
+while read i; do
+    pdfname=$(echo "$i" | rev | cut -c 3- | rev)
+    pdfname+="pdf"
+    #echo $pdfname
+    pandoc -s -o $i $pdfname
+done <<< "$var"
