@@ -1,1 +1,0 @@
-# Amerikanska revolutionen

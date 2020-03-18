@@ -1,1 +1,0 @@
-# Linjära ekvationssystem

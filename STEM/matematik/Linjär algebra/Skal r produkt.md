@@ -1,1 +1,0 @@
-# Skalär produkt

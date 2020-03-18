@@ -1,1 +1,0 @@
-# Egenvärde och egenvektor

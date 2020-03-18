@@ -1,1 +1,0 @@
-# Geometriska vektorer

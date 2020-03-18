@@ -1,1 +1,0 @@
-# Psykodynamiska perspektivet
