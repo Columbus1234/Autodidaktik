@@ -5,3 +5,5 @@ Varje ämnesområde nämns här på sidan, och under varje område länkar jag t
 Jag behöver även få in att studier kräver ansträngning och att jag inte kan förvänta mig att erhålla "fruktens sötma" utan att först sett till att arbetat för det. 
 
 # DET ÄR ENBART JAG SJÄLV SOM KAN GÖRA ANSTRÄNGNINGEN ATT LÄRA MIG DET JAG TYCKER ÄR VÄRDEFULLT
+
+snabb grej
