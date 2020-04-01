@@ -9,7 +9,6 @@ Versaillefreden 1919
 
 Hur många dagar varar kriget?
 =============================
-
     1565 dagar
 
 Hur förändras den europeiska kartan under 1800 talet och hur kan detta kopplas till första världskriget
