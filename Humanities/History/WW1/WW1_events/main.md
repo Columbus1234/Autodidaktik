@@ -162,3 +162,29 @@ bismark inte hugga rygg - tyska pengar bygger järnväg
 
 bsmark dör, avtal förnyas inte, frankrike och SB "let us introduce
 ourselves"
+
+## Tyskarna har begärt vapenvila och den 11/11 1918 kl 11.00 undertecknas stilleståndet i en järnvägsvagn i Compiegneskogen i norra Frankrike. Varför önskade Tyskland fred?
+
+## Vilka länder vann första världskriget?
+
+##Varför utestängdes de besegrade från arbetet med fredsvillkoren?
+
+## Varför var inte Ryssland med i fredsarbetet?
+
+## Vilka motsättningar fanns mellan USA, Frankrike och SB under fredsförhandlingarna?
+
+## Vilka var huvudtankarna i president Wilsons 14 punkter?
+
+## Undertecknandet av fredsfördraget skedde i Spegelsalen i Versailles. Vad kan detta
+
+## inneburit för tyskarna? (tänk symbolvärde)
+
+## Vad innebar freden för Tyskland mer konkret?
+
+## Artikel 231 lyder: De allierade regeringarna förklarar och Tyskland erkänner, att Tyskland och dess förbundna i egenskap av upphovsmän är ansvariga för alla förluster och skador, som de allierade regeringarna och deras medborgare har lidit till följd av kriget, vilket påtvangs dem genom Tysklands och dess förbundnas angrepp. Vad uttrycks i paragraf 231?
+
+## Artikel 235: För att för de allierade makterna möjliggöra återupprättandet av deras industri och ekonomi, innan det slutliga beloppet för deras krav har fastställts, betalar Tyskland i avräkning på ovan nämnda skuld under åren 1919, 1920 och de första fyra månaderna av år 1921 med så många avbetalningar och i sådan form, som skadeståndskommittén fastställer, ett värde motsvarande tjugo miljarder mark i guld. Hur påverkades Tysklands ekonomi av artikel 235?
+
+## I samband med Versaillesfreden slöts en mängd andra fördrag, fördrag där nationalitetstanken genomsyrade förändringarna. Titta på kartan i LB s 243. Vilka nya stater bildades när Österrike-Ungern splittras? Av Rysslands förluster?
+
+## Kriget och freden som följde fick konsekvenser på flera olika plan. Vilka (tänk brett och utifrån flera olika perspektiv)?
