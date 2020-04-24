@@ -82,7 +82,7 @@ Det specifika försvaret
 
 ## Vad bygger upp det icke-specifika immunförsvaret? 
 - fysiska och kemiska barriärer
-- vita blodkroppar som verkar specifikt
+- vita blodkroppar som verkar ospecifikt
 - olika signalämnen
 
 ## Vad bygger upp det specifika immunförsvaret?

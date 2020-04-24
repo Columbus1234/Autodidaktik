@@ -11,7 +11,7 @@
 
 Man ska förstå kommunikationssituationen och formulera syftet efter det.
 
-Vad är sammanhanget för denna text och hur ska jag anpassa den därefter?
+# Vad är sammanhanget för denna text och hur ska jag anpassa den därefter?
 
 # Ge exempel på några faktorer ska man ta i åtanke gällande mottagarna till ett föredrag, en text eller annat. 
 Man få anpassa innehållet efter vilka som lyssnar. Lekmän? Kanske inte fackspråk.
@@ -74,9 +74,7 @@ finns flera under kategorier.
 exordium
 
 
-# Vilka är de delarna i den retoriska triaden och när ska man använda dem?
-
-Ethos - trovärdig, skapa förtroende
+# Vilka är de delarna i den retoriska triaden och när ska man använda dem? Ethos - trovärdig, skapa förtroende
 Logos - fakta, logik, förnuft
 Pathos - väcka känslor
 
@@ -174,4 +172,13 @@ Den som argumenterar bestämmer definitionen av något till dess egen vinning.
 
 "abord är underförstått mord"
 
-# 
+# Inom partesmodellen av god retorik, vad menas med emendatio?
+Man utvärderar sin egen text men även andras.
+
+- kommunikationssituationen - mottagare, sändare och syfte
+- dispositionen
+- argumentationen
+- språklig utformining
+- framförandet
+
+
